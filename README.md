@@ -1,1 +1,2 @@
-# Quadratic-Sieve
+# Quadratic-Sieve  
+See Python Notebook for Information 
